@@ -13,12 +13,8 @@ Private fortnite launcher
 # API'S
 
 Nous utilisons :
-- <a href="https://fortnite-api.com/" rel="nofollow">Fortnite-API</a> créer par <a href="https://discordapp.com/users/373913699943186432" rel="nofollow">Officer</a>
-
-- <a href="https://nitestats.com/" rel="nofollow">NiteStats API</a> créer par <a href="https://discordapp.com/users/249459068341583872" rel="nofollow">VastBlast</a>
+- UAPI créer par UTrosh#0457
 
 # AUTRES
 
-- Nous utilisions fortnite.dev pour le launcher
-
-- Thanks to NeoNite.dev
+⚠️⚠️⚠️ CE PROJET A ETE ABANDONNE, SI VOUS VOULEZ LE CONTINUEZ, AJOUTEZ MOI SUR DISCORD : UTrosh#0457 ⚠️⚠️⚠️
